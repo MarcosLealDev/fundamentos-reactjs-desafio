@@ -8,7 +8,7 @@
     "elliptic": "^6.5.4",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "polished": "^3.5.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
